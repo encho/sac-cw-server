@@ -12,7 +12,7 @@
       {
         "kind": "main",
         "tag": "sac-cw-databinding",
-        "url": "https://sac-cw-server-encho.vercel.app/custom-widgets/excercises/data-binding/main.js",
+        "url": "https://sac-cw-server-encho.vercel.app/custom-widgets/excercises/data-binding/sac-cw-data-binding.js",
         "integrity": "",
         "ignoreIntegrity": true
       }
