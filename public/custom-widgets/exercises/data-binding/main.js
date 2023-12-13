@@ -40,9 +40,10 @@
       }
       console.log(dataBinding);
       console.log(JSON.stringify(dataBinding));
+
       this._root.textContent = JSON.stringify(dataBinding);
     }
   }
 
-  customElements.define("com-sap-sac-exercise-username-main", Main);
+  customElements.define("sac-cw-data-binding", Main);
 })();
